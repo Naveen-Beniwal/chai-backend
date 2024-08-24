@@ -1,0 +1,5 @@
+{
+  "prettier.bracketSameLine": true,
+  "prettier.semi": false,
+  "prettier.resolveGlobalModules": false
+}
